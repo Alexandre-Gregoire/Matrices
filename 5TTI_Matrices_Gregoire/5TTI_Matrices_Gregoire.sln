@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-VisualStudioVersion = 16.0.32901.82
+VisualStudioVersion = 16.0.32602.291
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5TTI_Matrices_Gregoire", "5TTI_Matrices_Gregoire\5TTI_Matrices_Gregoire.csproj", "{400DB8E3-EF2B-4BC7-B0EC-32942120E08F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5TTI_Matrices_Gregoire", "5TTI_Matrices_Gregoire\5TTI_Matrices_Gregoire.csproj", "{076DCB8A-16C2-413F-A3C0-3301A4A80BD6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{400DB8E3-EF2B-4BC7-B0EC-32942120E08F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{400DB8E3-EF2B-4BC7-B0EC-32942120E08F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{400DB8E3-EF2B-4BC7-B0EC-32942120E08F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{400DB8E3-EF2B-4BC7-B0EC-32942120E08F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{076DCB8A-16C2-413F-A3C0-3301A4A80BD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{076DCB8A-16C2-413F-A3C0-3301A4A80BD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{076DCB8A-16C2-413F-A3C0-3301A4A80BD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{076DCB8A-16C2-413F-A3C0-3301A4A80BD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {BB9ECD62-2B1C-4E12-89DD-9FB4F3455C39}
+		SolutionGuid = {DAC01037-6C47-4F4A-B490-5B233FC90221}
 	EndGlobalSection
 EndGlobal

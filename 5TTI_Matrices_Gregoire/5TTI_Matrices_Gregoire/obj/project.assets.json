@@ -8,19 +8,23 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\agreg\\.nuget\\packages\\": {}
+    "C:\\Users\\210278.asty-moulin\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\agreg\\source\\repos\\5TTI_Matrices_Gregoire\\5TTI_Matrices_Gregoire\\5TTI_Matrices_Gregoire.csproj",
+      "projectUniqueName": "C:\\Users\\210278.asty-moulin\\source\\repos\\5TTI_Matrices_Gregoire\\5TTI_Matrices_Gregoire\\5TTI_Matrices_Gregoire.csproj",
       "projectName": "5TTI_Matrices_Gregoire",
-      "projectPath": "C:\\Users\\agreg\\source\\repos\\5TTI_Matrices_Gregoire\\5TTI_Matrices_Gregoire\\5TTI_Matrices_Gregoire.csproj",
-      "packagesPath": "C:\\Users\\agreg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\agreg\\source\\repos\\5TTI_Matrices_Gregoire\\5TTI_Matrices_Gregoire\\obj\\",
+      "projectPath": "C:\\Users\\210278.asty-moulin\\source\\repos\\5TTI_Matrices_Gregoire\\5TTI_Matrices_Gregoire\\5TTI_Matrices_Gregoire.csproj",
+      "packagesPath": "C:\\Users\\210278.asty-moulin\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\210278.asty-moulin\\source\\repos\\5TTI_Matrices_Gregoire\\5TTI_Matrices_Gregoire\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\agreg\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\210278.asty-moulin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +64,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
       }
     }
   }
